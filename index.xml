@@ -1,34 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jay Gandhi</title>
-    <link>https://www.gandhijay.com/</link>
-    <description>Recent content on Jay Gandhi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gandhijay.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://www.gandhijay.com/posts/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gandhijay.com/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.gandhijay.com/about/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gandhijay.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- Blackfriday Chroma Smartcrop Cobra Viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jay Gandhi</title>
+        <link>http://gandhijay.com/</link>
+        <description>Jay Gandhi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate>
+            <atom:link href="http://gandhijay.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Theme Documentation - Basics</title>
+    <link>http://gandhijay.com/posts/first_post/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://gandhijay.com/posts/first_post/</guid>
+    <description><![CDATA[This is a demo.
+ This is virali this is jay  ]]></description>
+</item></channel>
 </rss>

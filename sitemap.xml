@@ -1,27 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.gandhijay.com/posts/</loc>
-    <lastmod>2020-07-28T08:33:27+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gandhijay.com/about/</loc>
-    <lastmod>2020-07-27T18:40:57+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gandhijay.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.gandhijay.com/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.gandhijay.com/tags/</loc>
-  </url>
-  
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://gandhijay.com/posts/first_post/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://gandhijay.com/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://gandhijay.com/posts/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod></url><url>
+            <loc>http://gandhijay.com/categories/</loc></url><url>
+            <loc>http://gandhijay.com/tags/</loc></url></urlset>
