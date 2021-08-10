@@ -7,11 +7,12 @@
             <atom:link href="http://gandhijay.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Setting up my gandhijay.com site</title>
-    <link>http://gandhijay.com/posts/first_post/</link>
+    <link>http://gandhijay.com/posts/setting_up_site/</link>
     <pubDate>Tue, 10 Aug 2021 00:00:00 &#43;0530</pubDate>
     <author>Author</author>
-    <guid>http://gandhijay.com/posts/first_post/</guid>
-    <description><![CDATA[Hey everyone👋
-I am Jay Gandhi and this is my first time writing a blog.]]></description>
+    <guid>http://gandhijay.com/posts/setting_up_site/</guid>
+    <description><![CDATA[Hey everyone👋 I am Jay Gandhi and this is my first time writing a blog and hoping it might give some insights when you&rsquo;re building the blog.
+For this site, I&rsquo;m using Hugo (hugo v0.86.0) and LoveIt theme by Dillon.
+Why Hugo? This is my very first blog with any tool ever. I was looking for something very simple that does not require any advanced knowledge or dependency on any tool or large dependencies to run the site (no node_modules😅).]]></description>
 </item></channel>
 </rss>
