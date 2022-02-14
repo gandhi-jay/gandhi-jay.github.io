@@ -2,10 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://gandhijay.com/coding-interview/setting_up_site/</loc><lastmod>2022-02-14T00:00:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://gandhijay.com/posts/setting_up_site/</loc><lastmod>2022-02-14T00:00:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://gandhijay.com/about/</loc><lastmod>2022-02-14T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://gandhijay.com/coding-interview/</loc><lastmod>2022-02-14T00:00:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://gandhijay.com/</loc><lastmod>2022-02-14T00:00:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://gandhijay.com/posts/</loc><lastmod>2022-02-14T00:00:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://gandhijay.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
