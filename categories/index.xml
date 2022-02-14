@@ -3,5 +3,6 @@
         <title>Categories - Category - Jay Gandhi</title>
         <link>http://gandhijay.com/categories/</link>
         <description>Categories - Category - Jay Gandhi</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://gandhijay.com/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@gandhijay.com (Jay Gandhi)</managingEditor>
+            <webMaster>hi@gandhijay.com (Jay Gandhi)</webMaster><atom:link href="http://gandhijay.com/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
