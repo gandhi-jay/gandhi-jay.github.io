@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Jay Gandhi</title>
+    <link>https://gandhijay.com/categories/</link>
+    <description>Recent content in Categories on Jay Gandhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Jul 2022 02:39:21 +0530</lastBuildDate><atom:link href="https://gandhijay.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Kafka</title>
+      <link>https://gandhijay.com/categories/apache-kafka/</link>
+      <pubDate>Thu, 07 Jul 2022 02:39:21 +0530</pubDate>
+      
+      <guid>https://gandhijay.com/categories/apache-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://gandhijay.com/categories/personal/</link>
+      <pubDate>Fri, 01 Jul 2022 02:39:21 +0530</pubDate>
+      
+      <guid>https://gandhijay.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
